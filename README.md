@@ -1,34 +1,11 @@
-# Multi Restaurants App UI Kit
-flutter build appbundle --target-platform android-arm,android-arm64,android-x64 --build-number 2 --build-name 1.8.0
 
-Multi Restaurants App UI Kit complete project using Flutter, it contains more than 20 
+Ecomerce App UI Kit complete project using Flutter, it contains more than 20 
 screens ready to integrate with your backend (Firebase, PHP, Java, ASP...) projects, 
 you can reuse more than 60 widget to customize your application.
 
 The same code used for both iOS and Android
 
-## Installation
-### Setup Flutter environment
-Follow base on the operating system on which you are installing Flutter:
 
-Mac OS: https://flutter.dev/docs/get-started/install/macos
-
-Window: https://flutter.dev/docs/get-started/install/windows
-
-Linux: https://flutter.dev/docs/get-started/install/linux
-
-Setup an editor: https://flutter.dev/docs/get-started/editor
-
-### Test drive
-This section describes how to create a new Flutter app, run it, and experience “hot reload” after you make changes to the Fluxstore app.
-
-Select your development tool of choice for writing, building, and running Flutter apps.
-
-[Android Studio / IntelliJ](https://flutter.dev/docs/get-started/test-drive#androidstudio)
-
-[Visual Studio Code](https://flutter.dev/docs/get-started/test-drive#androidstudio)
-
-[Terminal & editor](https://flutter.dev/docs/get-started/test-drive#androidstudio)
 
 #### Create the app
 1. Open the IDE and select **Start a new Flutter project**.
